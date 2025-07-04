@@ -1,0 +1,9 @@
+Install Python: https://www.python.org/downloads/
+
+Save the Script: Save the code in a file called password_checker.py
+
+Run in Command Prompt:
+
+bash/cmd
+
+python password_checker.py
