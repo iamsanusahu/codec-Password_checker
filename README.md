@@ -11,6 +11,17 @@ Checks for:
 - Digit
 - Special symbol
 
+▶️ How to Run on Windows
+Install Python: https://www.python.org/downloads/
+
+Save the Script: Save the code in a file called password_checker.py
+
+Run in Command Prompt:
+
+bash/cmd
+
+python password_checker.py
+
 ## Usage
 
 ```bash/cmd
